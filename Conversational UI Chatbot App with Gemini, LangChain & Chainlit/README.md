@@ -5,7 +5,6 @@
 ![Google Gemini](https://img.shields.io/badge/Google-Gemini%20Pro-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-0.1.12-green?style=for-the-badge)
 ![Chainlit](https://img.shields.io/badge/Chainlit-1.0.401-blueviolet?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 ---
 
@@ -306,11 +305,6 @@ git commit -m "feat: add your feature description"
 git push origin feature/your-feature-name
 ```
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
 
 ---
 
